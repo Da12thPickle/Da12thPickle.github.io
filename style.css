@@ -1,0 +1,281 @@
+
+   header {
+   	float: left;
+    margin:0 0 30px 0;
+    padding: 5px 0 0 0 ;
+    width: 100%;
+    height: 140px;
+  background-image:url('http://wallpapercave.com/wp/s6TYG72.jpg');
+   }
+   #Title{
+   	color:#00FF00;
+   	font-family:Century Gothic;
+   }
+   nav{
+   	background-color:#32CD32;
+   	text-align:center; 
+   }
+   nav li{
+   	list-style:none;
+   	display:inline-block;
+   	background-color:black; 
+   }
+   nav a{
+   	display:block;
+   	text-decoration:none;
+   	color:#00FF00;
+   	font-size:18px;
+   	line-height:50px;
+   }
+   html, body{
+   	margin:0;
+   	padding:0;
+   }
+   nav li:hover{
+   	background-color:white;
+   }
+   #yoyo{
+   	height:400px;
+   	width:400px;
+   }
+   body{
+   	background-color:#00FF00;
+      font-family:impact, arial black;
+   }
+   #h1{
+   	text-decoration:underline;
+      padding:none;
+   }
+   #Writing{
+   	font-size:25px;
+   }
+   #Boom{
+   	width:400px;
+   }
+   #WYC{
+   	height:200px;
+   }
+   #Top5{
+   	text-decoration:underline;
+   }
+   #Corner{
+   	float-left:100px;
+   	font-size:17px;
+   	background-color:white;
+   	border:ridge red;
+      position:absolute;
+      top:242.5px;
+      left:1000px;
+      margin:none;
+      padding:20px;
+   }
+   #Description{
+   	font-size:25px;
+   }
+   #Video{
+   	position:absolute;
+   	top:500px;
+   	left:800px;
+   	width:1000px;
+   }
+   #Step-1{
+      text-decoration:underline;
+   }
+   #Hi{
+      font-size:25px;
+   }
+#hello{
+   text-decoration:underline;
+}
+p {
+   font-size:25px;
+}
+
+#Step-3{
+   text-decoration:underline;
+}
+#Image{
+   width:170px;
+   position:absolute;
+   top:250px;
+   left:500px; 
+}
+#Image-2{
+   width:115px;
+   position:absolute;
+   top:370px;
+   left:500px; 
+}
+#Image-3{
+   width:600px;
+   height:400px;
+   position:absolute;
+   top:330px;
+   left:800px; 
+}
+#About{
+   position:absolute;
+   right:0px;
+   bottom:-300px; 
+}
+
+#Bob{
+   position:absolute;
+   left:425px;
+   top:1000px;
+   width:900px;
+}
+
+#Walking{
+   text-decoration:underline;
+   font-weight:none;
+}
+#Paragraph{
+width:50%;
+}
+#tricks{
+   background-color:green;
+}
+#Home{
+   background-color:green;
+}
+
+#How{
+   background-color:green;
+}
+#Elevator{
+   text-decoration:underline; 
+}
+#LLLLL{
+   width:50%;
+}
+
+#Forward{
+   text-decoration:underline; 
+}
+
+#KI{
+   width:50%;
+}
+#Around{
+   text-decoration:underline;
+}
+
+#World{
+   width:50%;
+}
+#throw{
+   text-decoration:underline;
+}
+#Strong{
+   text-decoration:underline;
+}
+#Sleeper{
+   width:50%;
+}
+#Creeper{
+   width:50%;
+}
+#YOYO{
+   height:150px;
+   width:500px;
+   position:absolute;
+   top:300px;
+   right:200px;
+}
+
+#Puppies{
+   height:200px;
+   position:absolute;
+   width:500px;
+   top:470px;
+   right:180px;
+}
+
+
+#Up-Down{
+   height:150px;
+   width:500px;
+   position:absolute;
+   top:700px;
+   right:150px;
+}
+
+
+#Give{
+   height:220px;
+   width:500px;
+   position:absolute;
+   top:870px;
+   right:150px;
+}
+
+
+#Moving{
+   width:500px;
+   height:150px;
+   position:absolute;
+   top:1110px;
+   right:180px; 
+}
+
+#Minecraft{
+   width:300px;
+   height:150px;
+   position:absolute;
+   top:1270px;
+   right:400px; 
+}
+
+#Ka-Boom{
+   width:300px;
+   height:150px;
+   position:absolute;
+   top:1270px;
+   right:100px;
+}
+
+#Made{
+   text-decoration:underline;
+}
+
+#When-Where{
+   width:50%;
+}
+
+#Where{
+   text-decoration:underline;
+}
+
+
+#Who-tricks{
+   text-decoration:underline;
+}
+
+#Wall{
+   width:500px;
+   height:150px;
+   position:absolute;
+   top:390px;
+   right:200px;
+}
+
+#Pedro{
+   width:500px;
+   height:150px;
+   position:absolute;
+   top:250px;
+   right:200px;
+}
+#YOyo{
+   width:50%;
+}
+
+
+
+
+
+
+
+
+
